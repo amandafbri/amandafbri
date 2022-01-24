@@ -6,4 +6,6 @@
 
 👩‍💻 I'm currently working as a Machine Learning Engineer
 
-🤖 I'm really interested in Natural Language Processing (mainly in portuguese!) and improving my MLOps knowledge!
+🤖 I'm really interested in improving my MLOps knowledge!
+
+💖 I love helping others to learn more about the tech world!
